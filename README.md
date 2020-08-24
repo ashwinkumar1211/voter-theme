@@ -1,3 +1,3 @@
 # voter-theme
 HTML Theme for voter website (ashwinak1211/voter.git)
-![Alt text](/login_page.jpg?raw=true "Title")
+![alt text](https://github.com/ashwinak1211/voter-theme/blob/master/login_page.png?raw=true)
